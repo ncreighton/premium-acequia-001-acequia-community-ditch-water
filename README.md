@@ -1,0 +1,2 @@
+# premium-acequia-001-acequia-community-ditch-water
+Stop juggling paper logs, text threads, and spreadsheets to track your acequia's water turns and rights shares. The Acequia Community Ditch Water Rights Manager brings centuries of communal irrigation tradition into a single, transparent Notion dashboard.  This template replaces fragmented record-keeping with a unified system that manages water all
